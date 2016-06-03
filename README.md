@@ -155,7 +155,12 @@ __而在Android 3.0(Honeycomb)以后的版本中__，AsyncTask又修改为了顺
 
 即创建一个单独的线程池(Executors.newCachedThreadPool())。或者最简单的方法法就是使用executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR)，这样起码不用等到前面的都结束了再执行了。executeOnExecutor(AsyncTask.SERIAL_EXECUTOR)则与execute()是一样的。
 
-## 0x05 关于
+## 0x05 最后的小尾巴
+
+<font color="#FF0000" size=5>如果你觉得对你有用，还请不<b>吝戳一下右上角</b>，你的鼓励就是我的动力！666</font>
+
+## 0x06 关于
+
 Author peerless2012
 
 Email  [peerless2012@126.con](mailto:peerless2012@126.con)
